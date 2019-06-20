@@ -20,3 +20,4 @@ file_picker
         1.3.6
     URL:
         https://pub.dev/packages/file_picker/versions/1.3.6
+
