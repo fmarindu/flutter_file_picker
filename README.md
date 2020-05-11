@@ -2,6 +2,8 @@
 
 flutter file picker
 
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FMB6FZ7TMT3Z2&source=url)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
