@@ -2,7 +2,8 @@
 
 flutter file picker
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FMB6FZ7TMT3Z2&source=url)
+Donations:  btc: 1JK4cmjh8j8ScHWsS7Su3k2QC7muBBzXvG or  
+            nano: nano_1iyxmxzoaj89rg7iki3ennsn898dxipxj86frfrxnmod8dqgqa93m5n5bih3
 
 ## Getting Started
 
